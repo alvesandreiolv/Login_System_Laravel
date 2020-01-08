@@ -39,7 +39,7 @@
                 {{ __('Esqueci minha senha') }}
             </a>
             @endif
-            <br>nads8002299151
+            <br>
         </div>
 
     </div>
